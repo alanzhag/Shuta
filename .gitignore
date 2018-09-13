@@ -61,3 +61,14 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+.idea/
+Arduino/__pycache__/
+Shooter/Service/__pycache__/
+Shooter/ShotResolvers/__pycache__/
+Shooter/Shots/__pycache__/
+Shooter/__pycache__/
+Tester.py
+__pycache__/
+static/
+templates/
+venv/
